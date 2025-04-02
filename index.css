@@ -1,0 +1,33 @@
+* {
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;  
+    font-style: normal;
+}
+
+div.topBar {
+    text-align: left;
+}
+
+span.homeButton {
+    text-align: right;
+}
+
+div.mid {
+    background-color: #d5bdaf;
+    text-align: center;
+    padding: 50pt;
+}
+
+div.projects {
+    background-color: #78a1bb;
+    text-align: center;
+    padding: 100pt;
+}
+
+div.bottomBar {
+    background-color: #d5bdaf;
+    padding: 25pt;
+}
+
+
